@@ -1,5 +1,5 @@
-Fuel-Economy-for-Android
-========================
+Fuel Economy for android v 0.2.1
+================================
 
 Fuel Economy for Android ver 0.2.1 - The application calculates the fuel consumption
 
