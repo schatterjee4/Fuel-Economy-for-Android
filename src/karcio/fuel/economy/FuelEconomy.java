@@ -18,10 +18,10 @@ public class FuelEconomy extends Activity
 	private Button button1;
 	
 	
-	private double miles = 0;
-	private double liters = 0;
-	private double result = 0;
-	private double convertMilesToKm = 0;
+	private double miles;
+	private double liters;
+	private double result;
+	private double convertMilesToKm;
 	
 	/** Called when the activity is first created. */
     @Override
