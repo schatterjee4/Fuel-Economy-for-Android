@@ -16,8 +16,7 @@ public class FuelEconomy extends Activity
 	private TextView textView6;
 	
 	private Button button1;
-	
-	
+		
 	private double miles;
 	private double liters;
 	private double result;
@@ -59,9 +58,15 @@ public class FuelEconomy extends Activity
     	convertMilesToKm = miles * 1.61;
     	result = 100 * liters / convertMilesToKm;
     	
-    	textView6.setText(Double.toString(convertMilesToKm));
-    	textView4.setText(Double.toString(result));
+    	String ConvertMilesToKm = String.format("%.0f", convertMilesToKm);
+    	textView6.setText(ConvertMilesToKm);
     	
+    	String Result = String.format("%.1f", result);
+    	textView4.setText(Result);
+
+    	//textView6.setText(Double.toString(convertMilesToKm));
+    	//textView4.setText(Double.toString(result));
+    	    	
     }
-        
+
 }
