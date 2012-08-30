@@ -26,8 +26,9 @@ Change log:
 	* number format
 
 0.2
-	* insert a picture
-
+	* inserted a picture
+	* inserted an icon
 0.1	
-	* first version of the program.
+	* first version of the program
 	* support Andoid 2.2 and up
+	
