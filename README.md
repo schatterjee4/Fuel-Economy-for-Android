@@ -22,13 +22,12 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Change log:
 ===========
 
-0.2.1
-	* number format
+0.2.1	- number format
 
-0.2
-	* inserted a picture
-	* inserted an icon
-0.1	
-	* first version of the program
-	* support Andoid 2.2 and up
+
+0.2	- inserted a picture
+	- inserted an icon
+
+0.1	- first version of the program
+	- support Andoid 2.2 and up
 	
