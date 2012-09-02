@@ -68,5 +68,5 @@ public class FuelEconomy extends Activity
     	//textView4.setText(Double.toString(result));
     	    	
     }
-
+    
 }

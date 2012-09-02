@@ -22,6 +22,8 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Change log:
 ===========
 
+0.2.2	- small graphical changes
+
 0.2.1	- number format
 
 

@@ -2,11 +2,12 @@
 <resources>
 
     <string name="hello">Hello World !</string>
-    <string name="app_name">Fuel Economy v0.2.1 by karcio</string>
+    <string name="app_name">Fuel Economy v0.2.2 by karcio</string>
     <string name="miles">Miles</string>
     <string name="liters">Liters</string>
     <string name="calculate">Calculate</string>
     <string name="kmConvert">kilometers driven</string>
     <string name="result">petrol consumption per 100km</string>
+    <string name="imageOfDistributor">distributor</string>
 
 </resources>
